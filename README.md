@@ -5,7 +5,7 @@
 ![Github visitors](https://komarev.com/ghpvc/?username=jbrodrigues&color=7159c0&style=flat-square)
 ## About Me
 I'm 21 years old, student of technologies, graduated in Analysis and systems development, Living in Brasil, my focus is on the web development, where i have been studying mainly 
-HTML, CSS, JavaScript and PHP in the moment.
+HTML, CSS, JavaScript and PHP at the moment.
 <br>
 In college I was studying technologies like C #, Unity, Blender, C ++, Delphi and Java where I developed some small personal projects.
 
