@@ -9,8 +9,8 @@ Desenvolvedor Web.
 
 ## Technologies
 - Front - End com HTML, CSS, JS, ReactJS | Typescript 
-- Wordpress
-- Python ( Iniciação Científica )
+
+- Python 
 
 <a href="https://github.com/jbrodrigues" target="_blank">
  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jbrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
