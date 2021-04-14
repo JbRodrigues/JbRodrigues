@@ -10,9 +10,14 @@ HTML, CSS, JavaScript and PHP in the moment.
 In college I was studying technologies like C #, Unity, Blender, C ++, Delphi and Java where I developed some small personal projects.
 
 ## Technologies I'm studying
-- Front - End:  HTML, CSS, Javascript
-- Back - End: PHP
-- Versioning: Git
+- Front-End:  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">HTML</code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">CSS</code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">Javascript</code>
+- Back-End:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">PHP</code>
+- Versioning:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">GIT</code>
 
 ## Technologies I want to study
 
