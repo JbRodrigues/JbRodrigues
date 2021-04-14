@@ -32,7 +32,7 @@ Desenvolvedor Web.
 
 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/bisaia/>Linkedin</a>
+- <a href="https://www.linkedin.com/in/bisaia/">Linkedin</a>
 - <a href="mailto:juliobisaia@gmail.com">E-mail</a>
 - <a href="https://instagram.com/jbrodrigues18">Instagram </a>
 </div>
