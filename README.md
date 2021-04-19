@@ -36,6 +36,7 @@ In college I was studying technologies like C #, Unity, Blender, C ++, Delphi an
 
 <a href="https://github.com/jbrodrigues" target="_blank">
  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jbrodrigues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+ 
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jbrodrigues&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
  <a/>
  
