@@ -31,7 +31,6 @@ In college I was studying technologies like C #, Unity, Blender, C ++, Delphi an
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++"></code>
 
 ## My Stats
 
@@ -48,9 +47,9 @@ In college I was studying technologies like C #, Unity, Blender, C ++, Delphi an
  
 
 ##  Contact Me
-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin"></code><a href="https://www.linkedin.com/in/bisaia/">Linkedin</a>
+- <a href="https://www.linkedin.com/in/bisaia/">Linkedin</a>
 
-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mail/mail"></code><a href="mailto:juliobisaia@gmail.com">E-mail</a>
+- <a href="mailto:juliobisaia@gmail.com">E-mail</a>
 
-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram"></code><a href="https://instagram.com/jbrodrigues18">Instagram </a>
+- <a href="https://instagram.com/jbrodrigues18">Instagram </a>
 </div>
