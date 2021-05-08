@@ -20,6 +20,8 @@ In college I was studying technologies like C #, Unity, Blender, C ++, Delphi an
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Python</code>
 - Versioning:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">GIT</code>
+- SO:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">Linux</code>
 
 ## Technologies I want to Learn
 
