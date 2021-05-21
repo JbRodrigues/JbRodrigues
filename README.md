@@ -8,10 +8,9 @@
 
 
 ## About Me
-I'm 21 years old, student of technologies, graduated in Analysis and systems development, Living in Brasil, my focus is on the web development, where i have been studying mainly 
-HTML, CSS, JavaScript and PHP at the moment.
+I'm 21 years old, student of technologies, graduated in Analysis and systems development, Living in Brasil, my focus is on the web development, where I have been studying mainly.
 <br>
-In college I was studying technologies like C #, Unity, Blender, C ++, Delphi and Java where I developed some small personal projects.
+In college I was studying technologies like C#, Unity, Blender, C++, Delphi and Java where I developed some small personal projects.
  
 
 ## Technologies I'm studying
@@ -36,6 +35,7 @@ In college I was studying technologies like C #, Unity, Blender, C ++, Delphi an
 ![image](https://img.shields.io/badge/iOS-f7f7f7?style=for-the-badge&logo=iOS&logoColor=black)
 ![image](https://img.shields.io/badge/SQL-ff4500?style=for-the-badge&logo=sql&logoColor=white)
 ![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
+![image](https://img.shields.io/badge/C++-005597?style=for-the-badge&logo=cplus&logoColor=white)
 
 ## My Stats
 
