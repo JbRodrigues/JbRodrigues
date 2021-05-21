@@ -1,40 +1,40 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Julio Bisaia!
 
- 
- 
-![Github visitors](https://komarev.com/ghpvc/?username=jbrodrigues&color=7159c0&style=flat-square)
+![Github visitors](https://komarev.com/ghpvc/?username=jbrodrigues&color=7159c0&style=flat-square) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliobisaia@gmail.com)](mailto:juliobisaia@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bisaia/)](https://www.linkedin.com/in/bisaia/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/jbrodrigues18/)](https://www.instagram.com/jbrodrigues18/)
+
+
+
 ## About Me
 I'm 21 years old, student of technologies, graduated in Analysis and systems development, Living in Brasil, my focus is on the web development, where i have been studying mainly 
 HTML, CSS, JavaScript and PHP at the moment.
 <br>
 In college I was studying technologies like C #, Unity, Blender, C ++, Delphi and Java where I developed some small personal projects.
+ 
 
 ## Technologies I'm studying
-- Front-End:  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">HTML</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">CSS</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">Javascript</code>
-- Back-End:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">PHP</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">node</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Python</code>
-- Versioning:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">GIT</code>
-- SO:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">Linux</code>
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Manjaro-33b959?style=for-the-badge&logo=manjaro&logoColor=black)
 
 ## Technologies I want to Learn
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+![image](https://img.shields.io/badge/Electron-2a2d38?style=for-the-badge&logo=electron&logoColor=black)
+![image](https://img.shields.io/badge/Ruby-aa1302?style=for-the-badge&logo=ruby&logoColor=black)
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/React-5ed3f3?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/Vue-00bb7c?style=for-the-badge&logo=vue&logoColor=white)
+![image](https://img.shields.io/badge/Android-8eba44?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/iOS-f7f7f7?style=for-the-badge&logo=iOS&logoColor=black)
+![image](https://img.shields.io/badge/SQL-ff4500?style=for-the-badge&logo=sql&logoColor=white)
+![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
 
 ## My Stats
 
@@ -45,15 +45,5 @@ In college I was studying technologies like C #, Unity, Blender, C ++, Delphi an
  <a/>
  
  [![jbrodrigues's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JbRodrigues&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
  
  <br/>
- 
-
-##  Contact Me
-- <a href="https://www.linkedin.com/in/bisaia/">Linkedin</a>
-
-- <a href="mailto:juliobisaia@gmail.com">E-mail</a>
-
-- <a href="https://instagram.com/jbrodrigues18">Instagram </a>
-</div>
