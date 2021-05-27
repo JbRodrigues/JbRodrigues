@@ -36,7 +36,6 @@ In college I was studying technologies like C#, Unity, Blender, C++, Delphi and 
 ![image](https://img.shields.io/badge/Android-8eba44?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-f7f7f7?style=for-the-badge&logo=iOS&logoColor=black)
 ![image](https://img.shields.io/badge/SQL-ff4500?style=for-the-badge&logo=sql&logoColor=white)
-
 ![image](https://img.shields.io/badge/C++-005597?style=for-the-badge&logo=cplus&logoColor=white)
 
 ## My Stats
