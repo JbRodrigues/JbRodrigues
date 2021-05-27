@@ -14,6 +14,8 @@ In college I was studying technologies like C#, Unity, Blender, C++, Delphi and 
  
 
 ## Technologies I'm studying
+![image](https://img.shields.io/badge/ASP-F7DF1E?style=for-the-badge&logo=asp&logoColor=black)
+![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +36,7 @@ In college I was studying technologies like C#, Unity, Blender, C++, Delphi and 
 ![image](https://img.shields.io/badge/Android-8eba44?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-f7f7f7?style=for-the-badge&logo=iOS&logoColor=black)
 ![image](https://img.shields.io/badge/SQL-ff4500?style=for-the-badge&logo=sql&logoColor=white)
-![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
+
 ![image](https://img.shields.io/badge/C++-005597?style=for-the-badge&logo=cplus&logoColor=white)
 
 ## My Stats
