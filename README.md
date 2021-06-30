@@ -12,7 +12,7 @@ I'm 21 years old, student of technologies, graduated in Analysis and systems dev
 <br>
 In college I was studying technologies like C#, Unity, Blender, C++, Delphi and Java where I developed some small personal projects.
 <br>
-Actually Working on Software enterprise, developing Classic Asp with Vbscript, E-Commerce Integration with Magento, MySql and Azure Technology 
+Actually Working on Softarte enterprise, developing Classic Asp with Vbscript, E-Commerce Integration with Magento, MySql and Azure Technology 
 
 ## Technologies I'm studying
 ![image](https://img.shields.io/badge/ASP-F7DF1E?style=for-the-badge&logo=asp&logoColor=black)
