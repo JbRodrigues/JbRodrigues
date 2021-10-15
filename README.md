@@ -8,14 +8,16 @@
 
 
 ## About Me
-I'm 21 years old, student of technologies, graduated in Analysis and systems development, Living in Brasil, my focus is on the web development, where I have been studying mainly.
+I'm 21 years old, student of technologies, graduated in Analysis and systems development, Living in Brasil, my focus is on the web development, where I have been mainly studying 
 <br>
 In college I was studying technologies like C#, Unity, Blender, C++, Delphi and Java where I developed some small personal projects.
 <br>
-Actually Working on Softarte enterprise, developing Classic Asp with Vbscript, E-Commerce Integration with Magento, MySql and Azure Technology 
+I was been developing Classic Asp with Vbscript, E-Commerce Integration with Magento, MySql and Azure Technology
+<br>
+I have been working with REST and SOAP API integrations and trying to use Javascript to make something happen.
+
 
 ## Technologies I'm studying
-![image](https://img.shields.io/badge/ASP-F7DF1E?style=for-the-badge&logo=asp&logoColor=black)
 ![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
