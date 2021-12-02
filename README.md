@@ -19,17 +19,16 @@ Now i've been working with REST and SOAP API integrations and trying to use Java
 
 ## Technologies I'm studying
 ![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
+![image](https://img.shields.io/badge/http-33b959?style=for-the-badge&logo=http&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/PHP-858ebb?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Manjaro-33b959?style=for-the-badge&logo=manjaro&logoColor=black)
+![image](https://img.shields.io/badge/node.js-33b959?style=for-the-badge&logo=node.js&logoColor=green)
+![image](https://img.shields.io/badge/express-33b959?style=for-the-badge&logo=express&logoColor=Darkgreen)
 
 ## Technologies I want to Learn
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Electron-2a2d38?style=for-the-badge&logo=electron&logoColor=black)
 ![image](https://img.shields.io/badge/Ruby-aa1302?style=for-the-badge&logo=ruby&logoColor=black)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -40,6 +39,10 @@ Now i've been working with REST and SOAP API integrations and trying to use Java
 ![image](https://img.shields.io/badge/iOS-f7f7f7?style=for-the-badge&logo=iOS&logoColor=black)
 ![image](https://img.shields.io/badge/SQL-ff4500?style=for-the-badge&logo=sql&logoColor=white)
 ![image](https://img.shields.io/badge/C++-005597?style=for-the-badge&logo=cplus&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PHP-858ebb?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Manjaro-33b959?style=for-the-badge&logo=manjaro&logoColor=black)
 
 ## My Stats
 
