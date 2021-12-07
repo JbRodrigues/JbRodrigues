@@ -55,3 +55,6 @@ Now i've been working with REST and SOAP API integrations and trying to use Java
  [![jbrodrigues's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JbRodrigues&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  
  <br/>
+ 
+## Last Work Status
+ ![Alt](https://repobeats.axiom.co/api/embed/654a5f459790aac9db1336c29b22bd4c3e09aa7e.svg "Repobeats analytics image")
