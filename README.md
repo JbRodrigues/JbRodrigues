@@ -53,3 +53,7 @@ Now i've been working with REST and SOAP API integrations and trying to use Java
  <a/>
  
  [![jbrodrigues's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JbRodrigues&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br>
+ 
+ <a href="https://app.daily.dev/JbRodrigues"><img src="https://api.daily.dev/devcards/9e733b4d7f7b4ad39d06e74eff6cb189.png?r=4j8" width="400" alt="Julio Bisaia Rodrigues's Dev Card"/></a>
