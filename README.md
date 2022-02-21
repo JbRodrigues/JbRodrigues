@@ -47,13 +47,7 @@ Now i've been working with REST and SOAP API integrations and trying to use Java
 ## My Stats
 
 <a href="https://github.com/jbrodrigues" target="_blank">
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jbrodrigues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
- 
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jbrodrigues&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jbrodrigues&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
  <a/>
  
- [![jbrodrigues's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JbRodrigues&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  
- <br>
- 
- <a href="https://app.daily.dev/JbRodrigues"><img src="https://api.daily.dev/devcards/9e733b4d7f7b4ad39d06e74eff6cb189.png?r=4j8" width="400" alt="Julio Bisaia Rodrigues's Dev Card"/></a>
