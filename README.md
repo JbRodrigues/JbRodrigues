@@ -18,6 +18,7 @@ Now i've been working with REST and SOAP API integrations and trying to use Java
 
 
 ## Technologies I'm studying
+![image](https://img.shields.io/badge/PHP-858ebb?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/http-33b959?style=for-the-badge&logo=http&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,7 +38,7 @@ Now i've been working with REST and SOAP API integrations and trying to use Java
 ![image](https://img.shields.io/badge/Android-8eba44?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/SQL-ff4500?style=for-the-badge&logo=sql&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/PHP-858ebb?style=for-the-badge&logo=php&logoColor=white)
+
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Manjaro-33b959?style=for-the-badge&logo=manjaro&logoColor=black)
 
