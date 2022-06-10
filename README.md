@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Julio Bisaia!
+# Hi there, I am Julio Bisaia!
 
 ![Github visitors](https://komarev.com/ghpvc/?username=jbrodrigues&color=7159c0&style=flat-square) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliobisaia@gmail.com)](mailto:juliobisaia@gmail.com)
