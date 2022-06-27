@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/jbrodrigues18/)](https://www.instagram.com/jbrodrigues18/)
 
 ## Sobre
-Estudante de tecnologias a desde 2018, com foco em Desenvolvimento Web.
+Estudante de tecnologia desde 2018, com foco em Desenvolvimento Web.
 
 ## Tecnologias que eu tenho estudado
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
