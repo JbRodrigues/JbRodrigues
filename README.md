@@ -15,6 +15,7 @@ Estudante de tecnologias a desde 2018, com foco em Desenvolvimento Web.
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/jSon-1b1b1b?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/node.js-33b959?style=for-the-badge&logo=node.js&logoColor=green)
+![image](https://img.shields.io/badge/react.js-20232A?style=for-the-badge&logo=react&logoColor=blue)
 
 ## Status
 <a href="https://github.com/jbrodrigues" target="_blank">
